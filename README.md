@@ -38,6 +38,12 @@ It is to help them develop a more accurate understanding of themselves through t
 Clarity over reassurance.  
 Practical growth over abstract advice.**
 
+## License
+
+This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. You may share and adapt the material, including commercially, provided you give appropriate credit, link to the license, and indicate whether changes were made.
+
+See [LICENSE](LICENSE) and the [official CC BY 4.0 legal code](https://creativecommons.org/licenses/by/4.0/legalcode).
+
 ## Scope & Disclaimer
 
 This skill is designed for reflective self-exploration and personal development. It is not a substitute for psychotherapy, professional mental-health care, or clinical diagnosis.

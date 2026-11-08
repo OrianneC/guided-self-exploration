@@ -1,5 +1,5 @@
 # Guided Self-Exploration
-An Open-Source Self-Exploration Framework for AI Agents
+
 **A structured, psychologically informed self-exploration skill for AI agents.**
 
 Guided Self-Exploration helps AI agents facilitate meaningful, in-depth conversations that support users in understanding themselves more clearly.
